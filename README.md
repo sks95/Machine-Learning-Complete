@@ -1,2 +1,2 @@
 # Machine-Learning-Complete
-Contains all machine related algorith and model
+Contains all machine learning related algorith and model
